@@ -1,4 +1,4 @@
-# my-node-ts-app
+# AI Operations Command Center
 
 Starter Node.js + TypeScript project scaffold with integrations and placeholders.
 
